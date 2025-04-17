@@ -1,0 +1,10 @@
+📘 Tsion's Git Notes ✨
+
+1️.git init → Create a new local repo  
+2️.git clone <url> → Copy a remote repo to your PC  
+3️.git status → See what's changed  
+4️.git add . → Stage your changes  
+5️.git commit -m "msg" → Save your changes with a message  
+6️.git push → Upload to GitHub  
+7️.git pull → Download latest from GitHub  
+8️.git checkout -b branch-name → Create & switch to a new branch
