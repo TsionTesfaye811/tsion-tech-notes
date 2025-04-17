@@ -8,3 +8,4 @@
 6️.git push → Upload to GitHub  
 7️.git pull → Download latest from GitHub  
 8️.git checkout -b branch-name → Create & switch to a new branch
+well done
